@@ -175,7 +175,11 @@ img {
 	padding: 0;
 	position: relative;
 }
-
+#body.home div.header div p a {
+	background: url(../images/icons.png);
+	color: #FFFFFF;
+	
+}
 #body.home div.body {
 	background-color: #eae7e8;
 	margin: 0;
