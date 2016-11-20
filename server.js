@@ -28,8 +28,8 @@ app.get('/style2.css', function (req, res) {
 app.get('/MuttaMala.html', function (req, res) {
   res.sendFile(path.join(__dirname, '', 'MuttaMala.html'));
 });
-app.get('/Prawn Roast.html', function (req, res) {
-  res.sendFile(path.join(__dirname, '', 'Prawn Roast.html'));
+app.get('/PrawnRoast.html', function (req, res) {
+  res.sendFile(path.join(__dirname, '', 'PrawnRoast.html'));
 });
 
 
