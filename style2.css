@@ -178,6 +178,8 @@ img {
 #body.home div.header div p a {
 	background: url(../images/icons.png);
 	color: #FFFFFF;
+	font-size: 15px;
+	text-transform: uppercase;
 	
 }
 #body.home div.body {
