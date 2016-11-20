@@ -25,8 +25,8 @@ app.get('/Dishes.html', function (req, res) {
 app.get('/style2.css', function (req, res) {
   res.sendFile(path.join(__dirname, '', 'style2.css'));
 });
-app.get('/Mutta Mala.html', function (req, res) {
-  res.sendFile(path.join(__dirname, '', 'Mutta Mala.html'));
+app.get('/MuttaMala.html', function (req, res) {
+  res.sendFile(path.join(__dirname, '', 'MuttaMala.html'));
 });
 app.get('/Prawn Roast.html', function (req, res) {
   res.sendFile(path.join(__dirname, '', 'Prawn Roast.html'));
