@@ -183,7 +183,7 @@ img {
 	
 }
 #body.home div.body {
-	background-color: #eae7e8;
+	background-color: #ffffff;
 	margin: 0;
 	max-width: none;
 	padding: 0;
@@ -203,8 +203,8 @@ img {
 }
 #body.home div.body div img {
 	display: block;
-	float: right;
-	left: 0;
+	float: center;
+	left: 350px;
 	margin: 0;
 	padding: 0;
 	position: relative;
