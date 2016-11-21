@@ -37,8 +37,8 @@ app.get('/CrabMasala.html', function (req, res) {
 app.get('/Unnakkaya.html', function (req, res) {
   res.sendFile(path.join(__dirname, '', 'Unnakkaya.html'));
 });
-app.get('/TURKEY EGG CASSEROLE.html', function (req, res) {
-  res.sendFile(path.join(__dirname, '', 'TURKEY EGG CASSEROLE.html'));
+app.get('/TURKEYEGGCASSEROLE.html', function (req, res) {
+  res.sendFile(path.join(__dirname, '', 'TURKEYEGGCASSEROLE.html'));
 });
 
 
