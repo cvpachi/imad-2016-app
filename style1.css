@@ -119,7 +119,7 @@ img {
 	text-transform: uppercase;
 }
 #header div ul li.menu {
-	min-height: 35px;
+	min-height: 85px;
 	z-index: 80;
 }
 #header div ul li.menu ul {
