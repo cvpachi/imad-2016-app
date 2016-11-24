@@ -177,13 +177,13 @@ img {
 }
 #body.home div.header div p a {
 	background: url(../images/icons.png);
-	color: #FFFFFF;
+	color: #FFA500;
 	font-size: 50px;
 	text-transform: uppercase;
 	
 }
 #body.home div.body {
-	background-color: #FFA500;
+	background-color: #FFFFFF;
 	margin: 0;
 	max-width: none;
 	padding: 0;
