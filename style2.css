@@ -108,7 +108,7 @@ img {
 	color: #000100;
 }
 #header div ul li ul li a {
-	color: #000000;
+	color: #61c80c;
 	font-family: lato-regular-webfont;
 	font-size: 15px;
 	font-weight: normal;
@@ -177,7 +177,7 @@ img {
 }
 #body.home div.header div p a {
 	background: url(../images/icons.png);
-	color: #FFA500;
+	color: #000000;
 	font-size: 30px;
 	text-transform: uppercase;
 	
