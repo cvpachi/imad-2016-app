@@ -842,8 +842,8 @@ img {
 	background: url(../images/bg-transparent.png) repeat;
 	margin: 0 auto;
 	overflow: hidden;
-	padding: 30px 0 35px 133px;
-	width: 747px;
+	padding: 0px 0 0px 0px;
+	width: auto;
 }
 #body.contact div.body div div img {
 	float: left;
